@@ -1,0 +1,10 @@
+﻿istanbul-ta.acerapps.io
+izmir-mi.acerapps.io
+bursa-rs.acerapps.io
+antalya-ta.acerapps.io
+adana-an.acerapps.io
+ankara-ka.acerapps.io
+artvin-tv.acerapps.io
+konya-ny.acerapps.io
+paris-ri.acerapps.io
+london-nd.acerapps.io
